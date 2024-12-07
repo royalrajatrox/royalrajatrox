@@ -56,14 +56,26 @@ Welcome to my GitHub! I am a passionate **React Developer** with strong expertis
 
 ### **IT Programmer Analyst** - Multi-Culture Association of Fredericton  
 (Sept 2023 – Present)  
-- Developed **FeedbackLy**, a React-Redux-based web app for survey creation.  
-- Built interactive UIs for custom ERP modules, improving user productivity.  
-- Trained and deployed a custom GPT model integrated with ERP for AI-driven insights.  
+
+➢ Designed and developed ‘FeedBackLy’, a full-stack web App for survey creation used by Employment Services at MCAF, leveraging Node.js, Express, MongoDB, Passport.js (Google OAuth), React, and Redux.
+➢ Developed the 'Resource Reservation' and 'HR' modules for Odoo ERP using Python, JavaScript, CSS, and HTML5.
+➢ Enhanced data retrieval speed by 65% through optimized PostgreSQL queries and API integration with Odoo.
+➢ Remodeled the timesheet UI with custom JavaScript, increasing task entry efficiency with custom grid implementation.
+➢ Built a custom CRM system from scratch, streamlining client registration and management using Python and Qweb.
+➢ DevelopedandtrainedacustomMCAFGPT,seamlesslyconnectingittoMCAFCRMmoduleviaOdooAPI,enablingadvanced
+automated responses and improved client interaction. Trained the model to enhance data-driven insights.
+➢ Led Docker-based deployment of Odoo ERP on a cloud server, facilitating integration and scaling on the cloud server.
+➢ Conducted end-to-end testing of developed modules, ensuring system robustness and improving user satisfaction.  
 
 ### **Front-End Developer (Co-op)** - NB Power  
 (May 2022 – Jan 2023)  
-- Developed data capture tools using React, HTML, CSS, and JavaScript.  
-- Optimized front-end performance and integrated user data into the database.  
+➢ Developed a user Data Capture WebApp by utilizing HTML5, CSS, JavaScript, and Bootstrap Framework.
+➢ Mapped user data to the PROD database, created the temporary structure for email automation, deployed revision 3 of the
+Risk Registry Management System, and conducted post-deployment meetings with clients.
+➢ Worked on the perspective creation tool and optimized its associated SQL queries by over 25%, managing data from
+multiple servers, and created the logic for data encapsulation.
+➢ Modified the Performance Monitoring tool, added necessary fields to capture relevant information for evaluation.
+➢ Remodeled the logic for scorecard evaluation using JavaScript and increased its accuracy by over 40%.  
 
 ---
 
